@@ -1,0 +1,18 @@
+# práctica 
+a = int(input("ingresar el primer numero:"))
+b = int(input("ingrese el segundo:"))
+
+resultado = a + b
+
+print("la suma del resultado")
+
+a = int(input("ingresar el primer numero:"))
+b = int(input("ingresar el segundo numero:"))
+
+suma = a + b
+resta = a - b
+
+print("la suma es, suma")
+print("la resta es, resta")
+
+
